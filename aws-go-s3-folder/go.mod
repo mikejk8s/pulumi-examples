@@ -1,6 +1,6 @@
 module github.com/pulumi/examples/aws-go-s3-folder
 
-go 1.16
+go 1.18
 
 require (
 	github.com/pulumi/pulumi-aws/sdk/v5 v5.0.0
